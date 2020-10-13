@@ -20,8 +20,7 @@ O_FILE = None;
 MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
 #Tweets with only the below words will be searched for
-KEYWORDS = ["information privacy", "information security", "vulnerability", "phishing", "adversary",
-			"cybersecurity", "breach", "malware", "spyware", "ransomware", "hackers", "hacking"];
+KEYWORDS = ["😂", "❤️,", "😍", "🤣","😊", "🙏", "💕", "😭", "😘","👍", "😅", "👏", "😁", "♥️","🔥", "💔", "💖", "💙", "😢", "🤔", "😆", "🙄", "💪", "😉", "☺️ "];
 
 #Giant list of stop words for filtering purposes
 STOP_WORDS = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've",
