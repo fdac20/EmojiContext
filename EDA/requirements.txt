@@ -1,0 +1,6 @@
+ftfy
+requests
+pandas
+numpy
+nltk
+sklearn
