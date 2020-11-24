@@ -1,0 +1,8 @@
+ftfy
+requests
+pandas
+numpy
+nltk
+sklearn
+emoji
+mplcairo
